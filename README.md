@@ -1,5 +1,5 @@
 <!-- Plugin description -->
-## `Image Manager` can help you manage project image resources
+## `Image Manager` can manage project images, such as compression, etc
 <!-- Plugin description end -->
 
 使用`Image Manager`插件来更好地管理和预览您项目中图片资源，具体效果如下(
